@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sudip Mandal And I'm a Web Developer, from Adamas University </h2>
+<h2 align="left">Hi 👋! I'm Sudip Mandal And I'm a Web Developer </h2>
 
 
 ## 🌐 Socials:
